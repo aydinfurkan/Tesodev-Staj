@@ -1,0 +1,13 @@
+F:\RiderProjects\ConsoleApp1\Titanic\bin\Debug\netcoreapp3.1\Titanic.exe
+F:\RiderProjects\ConsoleApp1\Titanic\bin\Debug\netcoreapp3.1\Titanic.deps.json
+F:\RiderProjects\ConsoleApp1\Titanic\bin\Debug\netcoreapp3.1\Titanic.runtimeconfig.json
+F:\RiderProjects\ConsoleApp1\Titanic\bin\Debug\netcoreapp3.1\Titanic.runtimeconfig.dev.json
+F:\RiderProjects\ConsoleApp1\Titanic\bin\Debug\netcoreapp3.1\Titanic.dll
+F:\RiderProjects\ConsoleApp1\Titanic\bin\Debug\netcoreapp3.1\Titanic.pdb
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.csprojAssemblyReference.cache
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.csproj.CoreCompileInputs.cache
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.AssemblyInfoInputs.cache
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.AssemblyInfo.cs
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.dll
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.pdb
+F:\RiderProjects\ConsoleApp1\Titanic\obj\Debug\netcoreapp3.1\Titanic.genruntimeconfig.cache

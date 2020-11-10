@@ -1,0 +1,31 @@
+﻿DELETE https://localhost:5001/api/user/all
+Accept: application/json
+
+###
+
+POST https://localhost:5001/api/user
+Content-Type: application/json
+
+{
+  "username": "Furkan",
+  "password": "FFFFF",
+  "email": "Furkan@coldmail.com"
+}
+
+###
+
+POST https://localhost:5001/api/user
+Content-Type: application/json
+
+{
+  "username": "Ahmet",
+  "password": "AAAA",
+  "email": "Ahmet@cmail.com"
+}
+
+###
+
+GET https://localhost:5001/api/user
+Accept: application/json
+
+###

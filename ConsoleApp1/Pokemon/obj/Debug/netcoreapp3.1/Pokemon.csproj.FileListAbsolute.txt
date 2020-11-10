@@ -1,0 +1,13 @@
+F:\RiderProjects\ConsoleApp1\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.exe
+F:\RiderProjects\ConsoleApp1\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.deps.json
+F:\RiderProjects\ConsoleApp1\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.runtimeconfig.json
+F:\RiderProjects\ConsoleApp1\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.runtimeconfig.dev.json
+F:\RiderProjects\ConsoleApp1\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.dll
+F:\RiderProjects\ConsoleApp1\Pokemon\bin\Debug\netcoreapp3.1\Pokemon.pdb
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.csprojAssemblyReference.cache
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.csproj.CoreCompileInputs.cache
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.AssemblyInfoInputs.cache
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.AssemblyInfo.cs
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.dll
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.pdb
+F:\RiderProjects\ConsoleApp1\Pokemon\obj\Debug\netcoreapp3.1\Pokemon.genruntimeconfig.cache

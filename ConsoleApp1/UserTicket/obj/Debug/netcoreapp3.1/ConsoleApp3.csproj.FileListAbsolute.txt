@@ -1,0 +1,13 @@
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+F:\RiderProjects\ConsoleApp1\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

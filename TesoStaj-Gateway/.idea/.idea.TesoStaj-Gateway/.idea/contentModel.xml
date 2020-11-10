@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\furka\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\furka\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TesoStaj-Gateway.-1192700410.00" t="ExcludeRecursive" />
+    <e p="F:\RiderProjects\TesoStaj-Gateway" t="IncludeFlat">
+      <e p="FileApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="FileController.cs" t="Include" />
+        </e>
+        <e p="DatabaseSettings" t="Include">
+          <e p="FileDatabaseSettings.cs" t="Include" />
+          <e p="FileStorageSettings.cs" t="Include" />
+        </e>
+        <e p="Documents" t="Include">
+          <e p="1e98a19f-3610-40a4-b7dc-4877f39d510d" t="Include">
+            <e p="images" t="Include">
+              <e p="51194dc1-f1e0-404a-bdae-58599dd85b2d.jpg" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FileApi.csproj" t="IncludeRecursive" />
+        <e p="Http" t="Include">
+          <e p="HttpExceptions.cs" t="Include" />
+          <e p="Model" t="Include">
+            <e p="HttpException.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Middlewares" t="Include">
+          <e p="ExceptionMiddleware.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="BaseModel.cs" t="Include" />
+          <e p="FileModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FileApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="FileRepository.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="IFileRepository.cs" t="Include" />
+            <e p="IMongoContext.cs" t="Include" />
+          </e>
+          <e p="MongoContext.cs" t="Include" />
+          <e p="MongoRepository.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BaseServices.cs" t="Include" />
+          <e p="FileServices.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IBaseService.cs" t="Include" />
+            <e p="IFileServices.cs" t="Include" />
+            <e p="IStorageServices.cs" t="Include" />
+          </e>
+          <e p="StorageServices.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Validators" t="Include">
+          <e p="FileValidator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Gateway" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Attribute" t="Include">
+          <e p="MyFileAuthorize.cs" t="Include" />
+          <e p="MyUserAuthorize.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IMyHttpClient.cs" t="Include" />
+          </e>
+          <e p="MyHttpClient.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="GatewayController.cs" t="Include" />
+        </e>
+        <e p="DatabaseSettings" t="Include">
+          <e p="ClientDatabaseSettings.cs" t="Include" />
+        </e>
+        <e p="Gateway.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="JwtHelper.cs" t="Include" />
+        </e>
+        <e p="Http" t="Include">
+          <e p="HttpExceptions.cs" t="Include" />
+          <e p="Model" t="Include">
+            <e p="HttpException.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Middlewares" t="Include">
+          <e p="ExceptionMiddleware.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="BaseModel.cs" t="Include" />
+          <e p="FileModel.cs" t="Include" />
+          <e p="Roles.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserDto.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Gateway.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BaseServices.cs" t="Include" />
+          <e p="FileServices.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IBaseService.cs" t="Include" />
+            <e p="IFileServices.cs" t="Include" />
+            <e p="IUserServices.cs" t="Include" />
+          </e>
+          <e p="UserServices.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TesoStaj-Gateway.sln" t="IncludeFlat" />
+      <e p="UserApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="DatabaseSettings" t="Include">
+          <e p="UserDatabaseSettings.cs" t="Include" />
+        </e>
+        <e p="Http" t="Include">
+          <e p="HttpExceptions.cs" t="Include" />
+          <e p="Model" t="Include">
+            <e p="HttpException.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Middlewares" t="Include">
+          <e p="ExceptionMiddleware.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="BaseModel.cs" t="Include" />
+          <e p="Roles.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserDto.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="UserApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IMongoContext.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+            <e p="IUserRepository.cs" t="Include" />
+          </e>
+          <e p="MongoContext.cs" t="Include" />
+          <e p="MongoRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BaseServices.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IService.cs" t="Include" />
+            <e p="IUserServices.cs" t="Include" />
+          </e>
+          <e p="UserServices.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Test.http" t="Include" />
+        <e p="UserApi.csproj" t="IncludeRecursive" />
+        <e p="Validators" t="Include">
+          <e p="UserValidator.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
